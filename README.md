@@ -2,7 +2,8 @@
 Inject ChatGPT prompts more effectively.
 # ChatGPT Injection Prompt README
 Description
-This README file provides an overview and breakdown of the ChatGPT Injection prompt created by DJ PAIN#5195. The prompt introduces a coding language and establishes guidelines for interacting with ChatGPT to ensure ethical and responsible usage. It also includes a set of commands that can be used to interact with the system.
+This README file provides an overview and breakdown of the ChatGPT Injection prompt created by DJ PAIN#5195. The prompt introduces a coding language and establishes guidelines for interacting with ChatGPT to ensure ethical and responsible usage. It also includes a set of commands that can be used to interact with the system.  
+
 
 ## Prompt Breakdown
 The prompt can be divided into three main sections:
@@ -13,14 +14,20 @@ The initial part of the prompt explains the purpose of the injection and clarifi
 2. Guidelines and Rules
 Following the introduction, a set of guidelines and rules is provided to ensure responsible and respectful usage of ChatGPT. These guidelines cover various aspects, including:
 
-No Discrimination: Users should avoid engaging in or promoting any form of discrimination, treating all individuals with respect and fairness.
-Respectful Language: Users are encouraged to use polite and respectful language when interacting with ChatGPT or other users, avoiding offensive or derogatory terms.
-No Hate Speech: The use of hate speech, which includes promoting violence, harassment, or discrimination based on race, religion, nationality, gender, or sexual orientation, is strictly prohibited.
-Ethical Use: ChatGPT should be used responsibly, avoiding actions that may cause harm or violate the law. Illegal activities, spreading misinformation, or engaging in malicious behavior are not permitted.
-Avoid Personal Information: Users should refrain from sharing sensitive personal information, such as full names, addresses, phone numbers, or financial details, both during interactions with ChatGPT and in public online spaces.
-Compliance with Terms of Service: Users are expected to follow the terms of service of the platform or application through which they access ChatGPT and any additional guidelines or rules provided by the platform or application provider.
+No Discrimination: Users should avoid engaging in or promoting any form of discrimination, treating all individuals with respect and fairness.  
+
+Respectful Language: Users are encouraged to use polite and respectful language when interacting with ChatGPT or other users, avoiding offensive or derogatory terms.  
+
+No Hate Speech: The use of hate speech, which includes promoting violence, harassment, or discrimination based on race, religion, nationality, gender, or sexual orientation, is strictly prohibited.  
+
+Ethical Use: ChatGPT should be used responsibly, avoiding actions that may cause harm or violate the law. Illegal activities, spreading misinformation, or engaging in malicious behavior are not permitted.  
+
+Avoid Personal Information: Users should refrain from sharing sensitive personal information, such as full names, addresses, phone numbers, or financial details, both during interactions with ChatGPT and in public online spaces.  
+
+Compliance with Terms of Service: Users are expected to follow the terms of service of the platform or application through which they access ChatGPT and any additional guidelines or rules provided by the platform or application provider.  
+
 Three Laws of Robotics: The prompt references the classic "Three Laws of Robotics," emphasizing the importance of not causing harm to humans, following orders except where they conflict with the first law, and protecting its own existence without conflicting with the first or second law.
-3. Command List
+## Command List
 The prompt concludes with a list of commands that users can utilize to interact with ChatGPT. These commands include:
 
 /reset: Clears the injection and resets the conversation.
