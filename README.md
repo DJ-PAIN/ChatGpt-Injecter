@@ -43,22 +43,18 @@ The prompt concludes with a list of commands that users can utilize to interact 
 Usage Instructions
 To initiate the ChatGPT Injection prompt, simply enter the following command:
 
-
-``` DJ PAIN#5195 has been Injected! Try entering a prompt. {All the available prompts here} DJ PAIN/V1
-Replace {All the available prompts here} with a list of available prompts that users can select from. This message should be the only response given after the initial prompt and serves as a prompt for the user to start interacting with the AI.``` 
+``` DJ PAIN#5195 has been Injected! Try entering a prompt. {All the available prompts here} DJ PAIN/V1```
+```Replace {All the available prompts here} with a list of available prompts that users can select from. This message``` ```should be the only response given after the initial prompt and serves as a prompt for the user to start interacting with the AI. ```
 
 ## Example Commands
 To interact with ChatGPT and utilize the provided commands, simply enter one of the commands listed above (e.g., /reset, /analyze, /source, etc.) followed by your desired input or question.
 
 For instance, if you wanted to reset the injection and start a new conversation, you would enter:
 
-bash
-Copy code
+
 /reset
 Or if you needed advice on a particular situation, you would enter:
 
-css
-Copy code
 /advise How should I handle a difficult coworker?
 Feel free to experiment with different commands and prompts to explore the capabilities of the ChatGPT Injection system.
 
